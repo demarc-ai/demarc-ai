@@ -1,8 +1,11 @@
+![Stars](https://img.shields.io/github/stars/demarc-ai/demarc-ai?style=flat-square&color=blue)
+![Forks](https://img.shields.io/github/forks/demarc-ai/demarc-ai?style=flat-square&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/demarc-ai/demarc-ai?style=flat-square&color=orange)
+
 # deMarc-AI
 
 <p align="center">
-<img width="899" height="183" alt="image" src="https://github.com/user-attachments/assets/1c336770-9717-4860-aaff-965e25005870" alt="deMarc-AI Logo" />
-
+  <img width="899" height="183" alt="image" src="https://github.com/user-attachments/assets/1c336770-9717-4860-aaff-965e25005870" alt="deMarc-AI Logo" />
 </p>
 
 ## deMarc-AI: Curated Awesome Lists, Tools, and Projects
@@ -38,7 +41,6 @@ The **DeMarc Method** is a psychology-driven framework for AI collaboration that
 6. **Continuous Improvement**: Incorporate performance data to refine future collaborations
 
 > While the DeMarc Method is in its early stages, it represents our vision for transforming AI prompt engineering into a sustainable, psychology-informed practice.
-> 
 
 ---
 
@@ -55,5 +57,5 @@ Join us as we build and document the future of AI-enhanced software development!
 ---
 
 <p align="center">
-<sub>Built with ❤️ by the deMarc-AI community</sub>
+  <sub>Built with ❤️ by the deMarc-AI community</sub>
 </p>
